@@ -2,9 +2,10 @@
 
 Esse conteúdo foi realizado para o desafio de projeto “Criando um Podcast com IAs Generativas” do Bootcamp Santander 2024 - Fundamentos de IA para Devs.
 
-- Conteúdo gerado via ChatGPT
-- Imagem geradas via Copilot
+- Roteiro gerado via ChatGPT
+- Capa gerada via Copilot
 - Narração gerada via ElevenLabs
+- Edição do áudio da narração via CapCut
 
 # 🎧 Podcast
 
@@ -19,5 +20,5 @@ Esse conteúdo foi realizado para o desafio de projeto “Criando um Podcast com
 
 ## 💻 Prompts
 
-[ChatGPT](https://github.com/CacauRosa/podcast-guardiao-do-sistema/blob/main/prompts/chatgpt.md)
-[Copilot](https://github.com/CacauRosa/podcast-guardiao-do-sistema/blob/main/prompts/copilot.md)
+- [ChatGPT](https://github.com/CacauRosa/podcast-guardiao-do-sistema/blob/main/prompts/chatgpt.md)
+- [Copilot](https://github.com/CacauRosa/podcast-guardiao-do-sistema/blob/main/prompts/copilot.md)
